@@ -11,14 +11,10 @@
             "id": "e19f016cb1e56557",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bem-vindo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bem-vindo"
+              "title": "Nova aba"
             }
           }
         ]
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bem-vindo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Bem-vindo"
+              "title": "Links inversos"
             }
           },
           {
@@ -129,12 +124,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bem-vindo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Bem-vindo"
+              "title": "Links de saída"
             }
           },
           {
@@ -172,13 +166,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bem-vindo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Bem-vindo"
+              "title": "Sumário"
             }
           }
         ]
@@ -201,9 +194,9 @@
   },
   "active": "e19f016cb1e56557",
   "lastOpenFiles": [
+    "Bem-vindo.md",
     "Objetos de Análise/Enunciado Oficial.md",
     "Objetos de Análise/Consultas Estratégicas.md",
-    "Objetos de Análise",
-    "Bem-vindo.md"
+    "Objetos de Análise"
   ]
 }

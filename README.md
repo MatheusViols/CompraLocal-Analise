@@ -6,13 +6,13 @@ Esse projeto compreende desde o levantamento/análise de requisitos até a imple
 
 Para atingir o objetivo final do projeto as ferramentas Git/GitHub e Obsidian foram escolhidas para armazenar, organizar e visualizar levantamentos e anotações.
 
-### Por que usar Git/GitHub + Obsdian e não continuar no Word + Whatsapp?
+### Por que usar Git/GitHub + Obsidian e não continuar no Word + Whatsapp?
 
-Somos um grupo de 6 pessoas com horários diferentes;
-Alguns trabalham, outros não;
-Alguns tem seu tempo livre as 15h da tarde, outros as 19h da noite, outros podem estar acordados durante a madrugada;
-Alguns tem sabado e domingo livres, outros só o domingo, outros não tem nenhum dos dois;
-O tempo de estudo de um pode ser 1 hora, de outro 3 horas, de outro só meia hora;
+- Somos um grupo de 6 pessoas com horários diferentes;
+- Alguns trabalham, outros não;
+- Alguns tem seu tempo livre as 15h da tarde, outros as 19h da noite, outros podem estar acordados durante a madrugada;
+- Alguns tem sabado e domingo livres, outros só o domingo, outros não tem nenhum dos dois;
+- O tempo de estudo de um pode ser 1 hora, de outro 3 horas, de outro só meia hora;
 
 O que isso afeta? **A nossa comunicação e nosso trabalho.**
 Como o projeto precisa de trabalho em conjunto ficamos presos a nos encontrarmos ou conversamos no Whatsapp para poder fazer alguma função. Isso dificilmente acontece pelos motivos citados acima, não podemos nos reunir sempre.
@@ -21,19 +21,19 @@ Com isso o que pensamos/achamos pode se perder. Podemos esquecer algo que queria
 
 O ponto **PRINCIPAL** de usar o Git/GitHub é: **VOCÊ NÃO PRECISA DE NINGUÉM!**
 
-##### "Eu acho que..."
-##### "Na minha opinião..."
-##### "Você deveria fazer..."
+#### "Eu acho que..."
+#### "Na minha opinião..."
+#### "Você deveria fazer..."
 
 Essas frases não fazem sentido usando essas ferramentas.
-Você acha algo? Quer algo? **VOCÊ PODE FAZER!"**
+Você acha algo? Quer algo? **VOCÊ PODE FAZER!**
 
-##### "Não quero estragar a estrutura do documento..."
-##### "Não sei escrever bem..."
-##### "Não sei se o que penso é correto..."
+#### "Não quero estragar a estrutura do documento..."
+#### "Não sei escrever bem..."
+#### "Não sei se o que penso é correto..."
 
 Não precisa se preocupar.
-Tudo que você escrever e enviar não vai diretamente para o projeto. Primeiro será lido, aprovado e sóentão será adicionado ao repositório.
+Tudo que você escrever e enviar não vai diretamente para o projeto. Primeiro será lido, aprovado e só então será adicionado ao repositório.
 
 Caso a sua contribuição seja boa, mesmo não estando escrita e estruturada corretamente, ela será reformulada pela pessoa que mantém esse repositório (@MatheusViols) e então será adicionada ao projeto.
 
