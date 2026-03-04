@@ -33,4 +33,5 @@
 
 
 ## Relações
-- [[Enunciado Oficial]]
+- [[Enunciado-Oficial]]
+- [[Especificações-de-requisitos]]

@@ -4,27 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "456d74be8315ea23",
+        "id": "f6b199d3f8ddf1ad",
         "type": "tabs",
         "children": [
           {
-            "id": "e19f016cb1e56557",
+            "id": "66a65252c2fa7bd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Análise de Requisitos/Funcionais/RF01-Cadastro-de-Usuarios.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "RF01-Cadastro-de-Usuarios"
             }
-          }
-        ]
-      },
-      {
-        "id": "2b88473abfaa43e9",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "0b3a9cdd9691a144",
+            "id": "6acf5d22c563ab19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análise de Requisitos/Funcionais/RF02-Cadastro-de-Estoque.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RF02-Cadastro-de-Estoque"
+            }
+          },
+          {
+            "id": "12c3c6c399054ce6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -33,7 +45,8 @@
               "title": "Visualização em gráfico"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,11 +206,21 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e19f016cb1e56557",
+  "active": "12c3c6c399054ce6",
   "lastOpenFiles": [
+    "estudoRequisitos.md",
+    "Análise de Requisitos/Funcionais/RF02-Cadastro-de-Estoque.md",
+    "Análise de Requisitos/Funcionais/RF01-Cadastro-de-Usuarios.md",
+    "Objetos de Análise/Especificações-de-requisitos.md",
+    "Objetos de Análise/Enunciado-Oficial.md",
+    "Objetos de Análise/Consultas-Estratégicas.md",
+    "Análise de Requisitos/Historias de Usuário/HU01-Cadastro de Usuario.md",
+    "Análise de Requisitos/Não Funcionais",
+    "Análise de Requisitos/Funcionais",
+    "Análise de Requisitos/Historias de Usuário",
+    "Sem título 1.md",
+    "Análise de Requisitos",
     "Bem-vindo.md",
-    "Objetos de Análise/Enunciado Oficial.md",
-    "Objetos de Análise/Consultas Estratégicas.md",
     "Objetos de Análise"
   ]
 }

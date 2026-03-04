@@ -19,5 +19,6 @@ A diretoria deseja uma solução que permita **controle transacional** e **gera�
 relatórios estratégicos de desempenho**
 
 ## Relações
-- [[Consultas Estratégicas]]
+- [[Consultas-Estratégicas]]
+- [[Especificações-de-requisitos]]
 
