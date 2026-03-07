@@ -34,7 +34,7 @@ Essa ação requer informações diferentes para cada tipo de usuário, sendo el
 	- Estado onde atua para localização;
 	- Cidade onde atua para localização;
 	- Email pessoal para um login seguro;
-	- Senha de no minimo 8 dígitos para um login seguro;
+	- Senha de no minimo 8 dígitos para um login seguro
 
 
 
