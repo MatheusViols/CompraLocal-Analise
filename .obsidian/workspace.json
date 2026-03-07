@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "8090055dd7792c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "67552b3a1f5547bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01f6867b85e85108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projeto/Análise de Requisitos/Funcionais/RF02-Cadastro-de-Estoque.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RF02-Cadastro-de-Estoque"
+            }
+          },
+          {
+            "id": "3d1433c23b3c01c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projeto/Análise de Requisitos/Funcionais/RF03-Cadastro-de-Pedidos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RF03-Cadastro-de-Pedidos"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cdacf4bb0e24617",
+    "type": "split",
+    "children": [
+      {
+        "id": "25b9732b6c3d63b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42760c2a1cb8f8dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "15f34f57c2bbbe3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "570b5a52c236b77d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b609e3d9021fa9a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "879ae7fe9549c47c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f2d68456a6c3c4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "projeto/Análise de Requisitos/Funcionais/RF03-Cadastro-de-Pedidos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para RF03-Cadastro-de-Pedidos"
+            }
+          },
+          {
+            "id": "854690dce0d36d19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "projeto/Análise de Requisitos/Funcionais/RF03-Cadastro-de-Pedidos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para RF03-Cadastro-de-Pedidos"
+            }
+          },
+          {
+            "id": "1ace9819f790a0dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "581f97719200051c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "e2234c8085abb640",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "projeto/Análise de Requisitos/Funcionais/RF03-Cadastro-de-Pedidos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de RF03-Cadastro-de-Pedidos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3d1433c23b3c01c0",
+  "lastOpenFiles": [
+    "projeto/Análise de Requisitos/Funcionais/RF02-Cadastro-de-Estoque.md",
+    "projeto/Análise de Requisitos/Funcionais/RF03-Cadastro-de-Pedidos.md",
+    "projeto/Análise de Requisitos/Funcionais/RF01-Cadastro-de-Usuarios.md"
+  ]
+}

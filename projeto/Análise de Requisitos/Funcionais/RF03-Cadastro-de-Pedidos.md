@@ -1,0 +1,1 @@
+Um pedido pode conter múltiplos produtos de diferentes lojas.
