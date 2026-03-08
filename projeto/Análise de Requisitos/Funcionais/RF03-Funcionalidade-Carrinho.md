@@ -1,0 +1,1 @@
+o usuario deve poder armazenar produtos que quer comprar em um carrinho para depois finalizar a compra.
