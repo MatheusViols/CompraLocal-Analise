@@ -4,7 +4,7 @@ Essa ação requer informações diferentes para cada tipo de usuário, sendo el
 
 - #### Obrigatórios
 	- Nome completo para identificação;
-	- CPF para identificação;
+	- CPF para identificação
 	- Endereço para localização;
 	- Numero de telefone para contato;
 	- Email pessoal para um login seguro;
