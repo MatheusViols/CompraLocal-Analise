@@ -1,0 +1,1 @@
+O usuário deve poder adicionar items a um carrinho e finalizar a compra posteriormente.
